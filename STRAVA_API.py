@@ -1,4 +1,8 @@
 """
+
+The tutorial can be read here:
+https://towardsdatascience.com/using-the-strava-api-and-pandas-to-explore-your-activity-data-d94901d9bfde/
+
 # API Strava
 
 http://www.strava.com/oauth/authorize?client_id={YOUR_ID}&response_type=code&redirect_uri=http://www.strava.com/exchange_token&approval_prompt=force&scope=activity:read_all
